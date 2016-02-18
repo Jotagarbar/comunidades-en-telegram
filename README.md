@@ -34,6 +34,7 @@
 | Python | @atmantree | https://telegram.me/joinchat/BG6gzwGzSvRriv6QHXp3Mg |
 | Python Bot | @willicab | https://telegram.me/joinchat/00ab7c2601b7e76d92a127df3c7848b4 |
 | RadioGNU | ... | https://telegram.me/joinchat/000c551d006cb38838b643d7e8229885 |
+| Redes | @Jotagarbar | https://telegram.me/joinchat/B4dJbwa1g_BBBGcEQNxDMw |
 | Ruby | ... | https://telegram.me/joinchat/054da39e01c4d63327e76bac35bfce64 |
 | Tabletas Canaima | @edgardoweb | https://telegram.me/joinchat/AGqisAI0UHkuBQDbuWm34g |
 | Telegram | @tomivs @vicxyz | https://telegram.me/joinchat/BLlObgMpXoIo_-jwoU62pQ |
